@@ -1,4 +1,4 @@
-import { Building2, Phone, Mail, MapPin } from "lucide-react";
+import { Phone, Mail, MapPin } from "lucide-react";
 import Image from "next/image";
 import Link from "next/link";
 
